@@ -1,5 +1,10 @@
 # codeblocks-code
 code for fibonacs series
+
+
+
+
+
 #include <stdio.h>
 main()
 {
